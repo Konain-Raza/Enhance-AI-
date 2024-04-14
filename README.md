@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./Images/logi.png" alt="Enhance AI Logo" width="200">
+  <img src="./Images/Logo.svg" alt="Enhance AI Logo" width="200">
 </div>
 
 # Enhance AI 🚀
